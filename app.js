@@ -13,11 +13,11 @@ function agregarAmigo() {
 
     // Validar entrada
     if (nombre === "") {
-        alert("Por favor, iserte un nombre.");
+        alert("Por favor, inserte un nombre.");
         return;
     }
 
-    amigos.push(nombre); // agregar al arreglo
+    amigos.push(nombre); // agregar al arreglo usando el metodo push
     inputNombre.value = ""; // limpiar campo
     mostrarLista(); // actualizar lista en pantalla
 }
@@ -40,7 +40,11 @@ function sortearAmigo() {
     }
 
     const indiceAleatorio = Math.floor(Math.random() * amigos.length);
-    const amigoSecreto = amigos[indiceAleatorio];
+    const amigoSecreto = amigos[indiceAleatorio]; //obtener el nombre sorteado//
 
-    listaResultado.innerHTML = `<li>🎉 El amigo secreto es: ${amigoSecreto}</li>`;
+    // 4. Mostrar el resultado en el HTML
+    const listaResultado = document.getElementById("resultado");
+    listaResultado.innerHTML = `<li>🎉 El amigo secreto es: ${amigoSorteado}</li>`;
 }
+
+
