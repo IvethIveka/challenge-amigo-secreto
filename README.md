@@ -30,9 +30,6 @@ El objetivo es combinar manipulación del DOM, validaciones de entrada y generac
 - **Sorteo aleatorio:**  
   Al hacer clic en el botón **"Sortear Amigo"**, se selecciona aleatoriamente un nombre de la lista y se muestra el resultado en pantalla.
 
-## Captura de Pantalla
-
-![Descripción de la imagen](assets/Captura%20de%20pantalla%20CHALLENGE.jpg)
 
 ## Enlace al Proyecto
 
