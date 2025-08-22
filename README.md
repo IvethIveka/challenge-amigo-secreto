@@ -1,5 +1,5 @@
 <h1>Challenge Alura Latam -Amigo Secreto</h1>
--Estado del proyecto - Iniciado
+-Estado del proyecto - Terminado
 
 # Challenge Amigo Secreto
 
