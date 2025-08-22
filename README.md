@@ -36,7 +36,7 @@ El objetivo es combinar manipulación del DOM, validaciones de entrada y generac
 
 ## Enlace al Proyecto
 
-Puedes ver el proyecto en vivo aquí: 
+Puedes ver el proyecto en vivo aquí: [Juego de amigo secreto] (https://ivethiveka.github.io/challenge-amigo-secreto/)
 
 
 ## Cómo Usar
